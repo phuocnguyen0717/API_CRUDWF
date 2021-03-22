@@ -1,0 +1,10 @@
+C:\Users\pnhes\source\repos\5951071080_NguyenQuangPhuoc_WF\5951071080_NguyenQuangPhuoc_WF\bin\Debug\5951071080_NguyenQuangPhuoc_WF.exe.config
+C:\Users\pnhes\source\repos\5951071080_NguyenQuangPhuoc_WF\5951071080_NguyenQuangPhuoc_WF\bin\Debug\5951071080_NguyenQuangPhuoc_WF.exe
+C:\Users\pnhes\source\repos\5951071080_NguyenQuangPhuoc_WF\5951071080_NguyenQuangPhuoc_WF\bin\Debug\5951071080_NguyenQuangPhuoc_WF.pdb
+C:\Users\pnhes\source\repos\5951071080_NguyenQuangPhuoc_WF\5951071080_NguyenQuangPhuoc_WF\obj\Debug\5951071080_NguyenQuangPhuoc_WF.csprojAssemblyReference.cache
+C:\Users\pnhes\source\repos\5951071080_NguyenQuangPhuoc_WF\5951071080_NguyenQuangPhuoc_WF\obj\Debug\_5951071080_NguyenQuangPhuoc_WF.Form1.resources
+C:\Users\pnhes\source\repos\5951071080_NguyenQuangPhuoc_WF\5951071080_NguyenQuangPhuoc_WF\obj\Debug\_5951071080_NguyenQuangPhuoc_WF.Properties.Resources.resources
+C:\Users\pnhes\source\repos\5951071080_NguyenQuangPhuoc_WF\5951071080_NguyenQuangPhuoc_WF\obj\Debug\5951071080_NguyenQuangPhuoc_WF.csproj.GenerateResource.cache
+C:\Users\pnhes\source\repos\5951071080_NguyenQuangPhuoc_WF\5951071080_NguyenQuangPhuoc_WF\obj\Debug\5951071080_NguyenQuangPhuoc_WF.csproj.CoreCompileInputs.cache
+C:\Users\pnhes\source\repos\5951071080_NguyenQuangPhuoc_WF\5951071080_NguyenQuangPhuoc_WF\obj\Debug\5951071080_NguyenQuangPhuoc_WF.exe
+C:\Users\pnhes\source\repos\5951071080_NguyenQuangPhuoc_WF\5951071080_NguyenQuangPhuoc_WF\obj\Debug\5951071080_NguyenQuangPhuoc_WF.pdb
